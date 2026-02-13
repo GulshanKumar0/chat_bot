@@ -1,2 +1,2 @@
 # chat_bot
-A chat bot which chats with you using natural language processing library.
+A BPSC-focused mentor chatbot tailored for Gulshan, with exam-oriented guidance prompts and evaluation-ready responses.
